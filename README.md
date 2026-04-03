@@ -49,4 +49,4 @@ Estou no terceiro semestre de Ciência da Computação e sou apaixonada por tecn
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FCB6D0section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=color=FCB6D0">
