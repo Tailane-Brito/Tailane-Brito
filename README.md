@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 Estou no terceiro semestre de Ciência da Computação e sou apaixonada por tecnologia. Estou sempre buscando aprender coisas novas e evoluir. Atualmente, meu foco é fortalecer minha base em **front-end** e, em seguida, avançar para **back-end**, com o objetivo de me tornar uma desenvolvedora full-stack. Tenho interesse em **inteligência artificial** e em me conectar com outras pessoas da área para trocar experiências e colaborar em projetos.
 
 ---
